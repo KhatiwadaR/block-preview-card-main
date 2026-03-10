@@ -51,7 +51,7 @@ h1 {
     margin: 20px 0;
 }
 
-h1:hover {
+h1:hover, h1:focus {
     color: var(--yellow);
     cursor: pointer;
 }
